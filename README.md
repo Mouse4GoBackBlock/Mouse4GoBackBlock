@@ -1,7 +1,7 @@
 ![](1.png)
 <br/>
 <br/>
-## *Mouse4 Go-Back Block**
+## **Mouse4 Go-Back Block**
                                                                                      
 **A browser extension that blocks the go-back in browser history navigation triggered by the mouse4 button.**
 <br/><br/>
